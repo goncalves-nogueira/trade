@@ -1,0 +1,33 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "trade",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "trade (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "trade (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M "main"
+git remote add origin https: //github.com/goncalves-nogueira/trade.git
+git push -u origin "main"
