@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "trade",
+            "name": "Debug",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "trade (profile mode)",
+            "name": "Profile",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "trade (release mode)",
+            "name": "Relese",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
